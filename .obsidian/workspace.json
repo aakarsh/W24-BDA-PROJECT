@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "notes/Papers/Poeppel/The Neural Basis of Speech Perception.pdf"
+                "file": "notes/Papers/Botvinick/PIIS0896627317305093 (1).pdf"
               },
               "icon": "lucide-file-text",
-              "title": "The Neural Basis of Speech Perception"
+              "title": "PIIS0896627317305093 (1)"
             }
           }
         ]
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Papers/Poeppel/The Neural Basis of Speech Perception.pdf",
+                "file": "notes/Papers/Botvinick/PIIS0896627317305093 (1).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Neural Basis of Speech Perception"
+              "title": "Backlinks for PIIS0896627317305093 (1)"
             }
           },
           {
@@ -111,12 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Papers/Poeppel/The Neural Basis of Speech Perception.pdf",
+                "file": "notes/Papers/Botvinick/PIIS0896627317305093 (1).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Neural Basis of Speech Perception"
+              "title": "Outgoing links from PIIS0896627317305093 (1)"
             }
           },
           {
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Papers/Poeppel/The Neural Basis of Speech Perception.pdf",
+                "file": "notes/Papers/Botvinick/PIIS0896627317305093 (1).pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Neural Basis of Speech Perception"
+              "title": "Outline of PIIS0896627317305093 (1)"
             }
           }
         ]
@@ -166,10 +166,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1f9c462e03d130c",
+  "active": "09b69f8769eb0319",
   "lastOpenFiles": [
-    "notes/Papers/Brennan/Language and Linguist  Compass - 2016 - Brennan - Naturalistic Sentence Comprehension in the Brain.pdf",
     "notes/Papers/Poeppel/The Neural Basis of Speech Perception.pdf",
+    "notes/Papers/Botvinick/PIIS0896627317305093 (1).pdf",
+    "notes/Papers/Botvinick",
+    "notes/Papers/Brennan/Language and Linguist  Compass - 2016 - Brennan - Naturalistic Sentence Comprehension in the Brain.pdf",
     "notes/Papers/Poeppel",
     "notes/Papers/Federmeir/Multiple effects of sentential constraint on word processing.pdf",
     "notes/Papers/Brennan",
@@ -178,8 +180,6 @@
     "notes/Project Main.md",
     "notes/Papers/Nair",
     "notes/Papers/Gwilliams/Hierarchical dynamic coding coordinates speech2 comprehension in the human brain.pdf",
-    "notes/Papers/Marta Kutas/Reading Senseless Sentences- Brain Potentials Reflect Semantic Incongruity.pdf",
-    "notes/Papers/Alessandro Lopopolo/nol-5-1-1.pdf",
     "Notes/Project Main.md"
   ]
 }
