@@ -31,3 +31,5 @@ AN:
 #### References
 
 1. https://www.youtube.com/watch?v=4MJWHM0Umao
+2. https://www.youtube.com/watch?v=Nvkz3FtHrlw
+3. https://www.youtube.com/watch?v=YR9EztOF0R8

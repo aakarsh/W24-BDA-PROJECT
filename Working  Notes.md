@@ -1,4 +1,7 @@
 
+10/4/2025
+
+* [[Surprisal]]
 #### 9/4/2025
 
 * Literature Review Guidance: 
