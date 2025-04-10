@@ -14,10 +14,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "notes/Papers/Friston/2210.15098v1 (1).pdf"
+                "file": "notes/Papers/Andrea Martin/nol_a_00155 (1).pdf"
               },
               "icon": "lucide-file-text",
-              "title": "2210.15098v1 (1)"
+              "title": "nol_a_00155 (1)"
             }
           },
           {
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Papers/Friston/2210.15098v1 (1).pdf",
+                "file": "notes/Papers/Andrea Martin/nol_a_00155 (1).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2210.15098v1 (1)"
+              "title": "Backlinks for nol_a_00155 (1)"
             }
           },
           {
@@ -145,12 +145,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Papers/Friston/2210.15098v1 (1).pdf",
+                "file": "notes/Papers/Andrea Martin/nol_a_00155 (1).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2210.15098v1 (1)"
+              "title": "Outgoing links from nol_a_00155 (1)"
             }
           },
           {
@@ -174,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Papers/Friston/2210.15098v1 (1).pdf",
+                "file": "notes/Papers/Andrea Martin/nol_a_00155 (1).pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2210.15098v1 (1)"
+              "title": "Outline of nol_a_00155 (1)"
             }
           }
         ]
@@ -202,8 +202,9 @@
   },
   "active": "09b69f8769eb0319",
   "lastOpenFiles": [
-    "notes/Papers/Kuribayashi/Large Language Models Are Human-Like Internally.pdf",
     "notes/Papers/Friston/2210.15098v1 (1).pdf",
+    "notes/Papers/Andrea Martin/nol_a_00155 (1).pdf",
+    "notes/Papers/Kuribayashi/Large Language Models Are Human-Like Internally.pdf",
     "notes/Papers/Friston",
     "notes/Papers/Misc/2207.09238v1.pdf",
     "notes/Papers/Misc/152111238.pdf",
@@ -213,7 +214,6 @@
     "notes/Papers/Prince",
     "notes/Papers/Vaswani",
     "notes/Project Main.md",
-    "notes/Papers/Marr/Poggio_LevelsOfunderstanding_Perceptionv41_Dec2012.pdf",
     "Working  Notes.md",
     "Notes/Project Main.md"
   ]
